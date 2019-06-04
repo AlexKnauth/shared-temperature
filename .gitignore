@@ -1,0 +1,14 @@
+# Racket-generated files
+compiled/
+doc/
+
+# ACL2s-generated files
+*.lisp.a2s
+
+# Coq-generated files
+*.aux
+*.glob
+*.vo
+
+# Editor-generated files
+*~
