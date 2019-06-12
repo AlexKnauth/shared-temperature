@@ -10,5 +10,9 @@ doc/
 *.glob
 *.vo
 
+# Dafny-generated files
+*.dll
+*.dll.mdb
+
 # Editor-generated files
 *~
